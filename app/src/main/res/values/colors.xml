@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e09b67</color>
+    <color name="colorPrimaryDark">#e0b277</color>
+    <color name="colorAccent">#bf3421</color>
+    <color name="link">#88e9876f</color>
+    <color name="link2">#97e96d4f</color>
+
+
+    <color name="l1.1">#f0ce78</color>
+    <color name="l1.2">#cf585d</color>
+    <color name="l1.3">#823e87</color>
+
+
+    <color name="l2.1">#d99746</color>
+    <color name="l2.3">#c7373e</color>
+    <color name="l2.2">#823e87</color>
+
+    <color name="l3.3">#808cd9</color>
+    <color name="l3.2">#cf5895</color>
+    <color name="l3.1">#663e87</color>
+
+    <color name="faded_white">#5bffffff</color>
+
+    <color name="spinner1">#ebf2d175</color>
+    <color name="button1">#bae6c07d</color>
+    <color name="button2">#dfe6cd7d</color>
+    <color name="alert">#ece6cd7d</color>
+    <color name="al2">#7bffae00</color>
+    <color name="butt">#b0bf3421</color>
+
+</resources>

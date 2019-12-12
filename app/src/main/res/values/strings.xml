@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">TaskAssist</string>
+    <string name="msg"></string>
+    <string name="floor_number">Floor Number</string>
+    <string name="room_type">Room Type</string>
+    <string name="room_number">Room Number</string>
+    <string name="issue">Issue</string>
+    <string name="button">Submit</string>
+    <string name="please_enter_query">Please Enter Query</string>
+    //FLOOR NUMBER ARRAYS
+    <string-array name="floors">
+        <item>Select Floor</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    //ROOMTYPE ARRAYS
+    <string-array name="forth_f_rooms">
+        <item>Select room type</item>
+        <item>Classroom</item>
+    </string-array>
+
+    <string-array name="fifth_f_rooms">
+        <item>Select room type</item>
+        <item>Classroom</item>
+    </string-array>
+
+
+    <string-array name="sixth_f_rooms">
+        <item>Select room type</item>
+        <item>Classroom</item>
+        <item>Lab</item>
+        <item>Faculty Room</item>
+        <item>Washroom</item>
+    </string-array>
+
+    //student sixth floor----------
+    <string-array name="stu_sixth_f_rooms">
+        <item>Select room type</item>
+        <item>Classroom</item>
+        <item>Lab</item>
+        <item>Washroom</item>
+    </string-array>
+
+    //------------
+
+    <string-array name="seventh_f_rooms">
+        <item>Select room type</item>
+        <item>Classroom</item>
+        <item>Lab</item>
+    </string-array>
+    <string-array name="eight_f_rooms">
+        <item>Select room type</item>
+        <item>Classroom</item>
+        <item>Lab</item>
+        <item>Washroom</item>
+    </string-array>
+
+    <string-array name="ninth_f_rooms">
+        <item>Select room type</item>
+        <item>Classroom</item>
+        <item>Lab</item>
+    </string-array>
+
+    //ROOM NUMBER ARRAYS
+
+    //washroom
+    <string-array name="washroom_num">
+        <item>Select Male/Female</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    //forth
+    <string-array name="forth_floor_class">
+        <item>Select room number</item>
+        <item>401</item>
+        <item>402</item>
+        <item>403</item>
+    </string-array>
+    //fifth
+    <string-array name="fifth_floor_class">
+        <item>Select room number</item>
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+    </string-array>
+    //sixth
+    //class
+    <string-array name="sixth_floor_class">
+        <item>Select room number</item>
+        <item>605</item>
+        <item>606</item>
+        <item>607</item>
+    </string-array>
+    //faculty
+    <string-array name="sixth_floor_faculty">
+        <item>Select room number</item>
+        <item>601</item>
+        <item>602</item>
+        <item>603</item>
+    </string-array>
+    //LABS:
+    <string-array name="sixth_floor_labs">
+        <item>Select room number</item>
+        <item>610</item>
+        <item>611</item>
+        <item>612</item>
+    </string-array>
+    //seventh
+
+    <string-array name="seventh_floor_labs">
+        <item>Select room number</item>
+        <item>710</item>
+        <item>711</item>
+        <item>712</item>
+    </string-array>
+
+    <string-array name="seventh_floor_class">
+        <item>Select room number</item>
+        <item>705</item>
+        <item>706</item>
+        <item>707</item>
+    </string-array>
+
+    //eight
+    //class
+    <string-array name="eighth_floor_class">
+        <item>Select room number</item>
+        <item>805</item>
+        <item>806</item>
+        <item>807</item>
+    </string-array>
+
+    //labs
+    <string-array name="eighth_floor_labs">
+        <item>Select room number</item>
+        <item>810</item>
+        <item>811</item>
+        <item>812</item>
+    </string-array>
+    //ninth
+    //class
+    <string-array name="ninth_floor_class">
+        <item>Select room number</item>
+        <item>905</item>
+        <item>906</item>
+        <item>907</item>
+    </string-array>
+
+    //labs
+    <string-array name="ninth_floor_labs">
+        <item>Select room number</item>
+        <item>910</item>
+        <item>911</item>
+        <item>912</item>
+    </string-array>
+
+    //issues
+
+    <string-array name="class_issues">
+        <item>Select issue:</item>
+        <item>Projector</item>
+        <item>Chair</item>
+        <item>A/C</item>
+        <item>Fan</item>
+        <item>Door</item>
+    </string-array>
+
+    <string-array name="lab_issues">
+        <item>Select issue:</item>
+        <item>Computer</item>
+        <item>Projector</item>
+        <item>Chair</item>
+        <item>A/C</item>
+        <item>Fan</item>
+        <item>Door</item>
+    </string-array>
+    <string-array name="faculty_issues">
+        <item>Select issue:</item>
+        <item>Desk</item>
+        <item>Chair</item>
+        <item>A/C</item>
+        <item>Fan</item>
+        <item>Door</item>
+    </string-array>
+
+    <string-array name="washroom_issues">
+        <item>Select issue:</item>
+        <item>Tap</item>
+        <item>Sink</item>
+        <item>Leakage</item>
+    </string-array>
+</resources>
+
+

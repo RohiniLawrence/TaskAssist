@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/myLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/login_ani"
+    android:orientation="vertical"
+    android:padding="45dp"
+    tools:context="com.taskassist.Login">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:gravity="center">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="@color/faded_white"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textview"
+
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:text="Task Assist"
+            android:textColor="#ae5555"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+
+            android:layout_marginTop="7dp"
+            android:gravity="center"
+            android:text="Login"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:typeface="normal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="216dp"
+            android:layout_height="42dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="25dp"
+            android:defaultFocusHighlightEnabled="false"
+            android:focusable="true"
+            android:fontFamily="sans-serif"
+            android:gravity="center"
+            android:hint="User ID"
+            android:singleLine="false"
+            android:textColorHighlight="#ae5555"
+            android:textColorHint="#bebabd"
+            android:textColorLink="@android:color/darker_gray"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textview"
+            tools:textColorLink="#c97c7c" />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/editText"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignRight="@+id/editText"
+            android:layout_below="@+id/editText"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:textColorHint="#bebabd"
+            android:textColorLink="@android:color/darker_gray"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="@+id/editText"
+            app:layout_constraintTop_toBottomOf="@+id/editText" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:background="@drawable/login_box"
+                android:padding="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="7dp"
+
+                android:text="login" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/login_box"
+                android:padding="10dp"
+android:layout_marginLeft="7dp"
+                android:text="CLEAR" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
+</android.support.constraint.ConstraintLayout>

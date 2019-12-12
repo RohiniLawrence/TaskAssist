@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    tools:context="com.taskassist.MainActivity"
+    android:layout_gravity="center"
+    android:background="@drawable/splash"
+    android:id="@+id/mainlay"
+    >
+
+>
+
+    <LinearLayout
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elegantTextHeight="false"
+
+                android:text="Task Assist"
+                android:textColor="@color/link"
+                android:textSize="50dp"
+                android:textStyle="bold|italic" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</android.support.constraint.ConstraintLayout>
+
