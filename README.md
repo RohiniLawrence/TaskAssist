@@ -18,6 +18,6 @@ Implemented android development concepts like custom views andshared preferences
 ## Screenshots:  
   
   ###### Splash -> Login  
-  <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/Login.png" width="400"> 
+  <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/Login.png" width="400"> <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/Login.png" width="400">
 
 
