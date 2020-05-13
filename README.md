@@ -2,7 +2,7 @@
     
    <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/app/src/main/res/drawable/logo.png" width="200"> 
 
-# Task Assist : Maintainance Support Android App 
+# Task Assist (Originally Rapid Access) : Maintainance Support Android App 
 > *"This is my very first android app that I've ever made! Taught myself android by making this app.  So the code is not that clean. I have learnt a lot since then, please check other repos for code samples. :)"
 
 This andoid application was made to help students and teachers submit maintenance complaints to the building manager in LPU (University in India) and for the admin to quickly resolve their issues.
