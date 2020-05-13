@@ -18,6 +18,11 @@ Implemented android development concepts like custom views andshared preferences
 ## Screenshots:  
   
   ###### Splash -> Login  
-  <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/Splash.png" width="100"> <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/Login.png" width="100">
+  <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/Splash.png" width="150"> <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/Login.png" width="150">     
+  ###### User's Landing -> Submitting Complaints  
+   <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/Studenthome.png" width="150"> <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/staff.png" width="150">  <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/clean1.png" width="150"><img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/staffc.png" width="150">
+   ###### Admin's Landing -> Viewing Complaints
+   <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/Adminhome.png" width="150"> <img src="https://github.com/RohiniLawrence/TaskAssist/blob/master/admin.png" width="150"> 
+  
 
 
